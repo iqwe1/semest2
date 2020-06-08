@@ -1,0 +1,9 @@
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Lab_Yevtaiyev\Lab_2\obj\Debug\Lab_2.pdb

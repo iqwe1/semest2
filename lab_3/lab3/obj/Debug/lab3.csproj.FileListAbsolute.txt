@@ -1,0 +1,8 @@
+D:\github\c_sharp\sem2\lab_3\lab3\bin\Debug\lab3.exe.config
+D:\github\c_sharp\sem2\lab_3\lab3\bin\Debug\lab3.exe
+D:\github\c_sharp\sem2\lab_3\lab3\bin\Debug\lab3.pdb
+D:\github\c_sharp\sem2\lab_3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\github\c_sharp\sem2\lab_3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\github\c_sharp\sem2\lab_3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\github\c_sharp\sem2\lab_3\lab3\obj\Debug\lab3.exe
+D:\github\c_sharp\sem2\lab_3\lab3\obj\Debug\lab3.pdb

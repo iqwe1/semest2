@@ -1,0 +1,16 @@
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\bin\Debug\Crossword.exe
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\bin\Debug\Crossword.pdb
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\obj\Debug\Crossword.exe
+D:\Нова папка\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Crossword\Crossword\obj\Debug\Crossword.pdb
+D:\github\c_sharp\sem2\Crossword\Crossword\bin\Debug\Crossword.exe
+D:\github\c_sharp\sem2\Crossword\Crossword\bin\Debug\Crossword.pdb
+D:\github\c_sharp\sem2\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+D:\github\c_sharp\sem2\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+D:\github\c_sharp\sem2\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+D:\github\c_sharp\sem2\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+D:\github\c_sharp\sem2\Crossword\Crossword\obj\Debug\Crossword.exe
+D:\github\c_sharp\sem2\Crossword\Crossword\obj\Debug\Crossword.pdb

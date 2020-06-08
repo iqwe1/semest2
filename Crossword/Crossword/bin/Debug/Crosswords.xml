@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FieldSettings>
+  <Field Configuration="500 500, 3 6 8 H, 7 9 5 H, 8 5 5 V, 3 1 7 V, 1 1 6 H" />
+  <Description Question="1. Хто головний герой мультфільму Бременські музиканти." Answer="трубадур" />
+  <Description Question="2. Як звали тигра прицеси Жасмін в мультфільмі Алладін." Answer="раджа" />
+  <Description Question="3. Чий ріст вимірювали в папугах." Answer="удава" />
+  <Description Question="4. Як звали самку білки в Льодовиковому періоді 3: Ера динозаврів." Answer="скратті" />
+  <Description Question="5. Скільки сезонів в шоу Друзі." Answer="десять" />
+</FieldSettings>

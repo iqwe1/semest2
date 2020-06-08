@@ -1,0 +1,9 @@
+D:\github\c_sharp\calculator\bin\Debug\calculator.exe.config
+D:\github\c_sharp\calculator\bin\Debug\calculator.exe
+D:\github\c_sharp\calculator\bin\Debug\calculator.pdb
+D:\github\c_sharp\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\github\c_sharp\calculator\obj\Debug\calculator.Form1.resources
+D:\github\c_sharp\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\github\c_sharp\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\github\c_sharp\calculator\obj\Debug\calculator.exe
+D:\github\c_sharp\calculator\obj\Debug\calculator.pdb
