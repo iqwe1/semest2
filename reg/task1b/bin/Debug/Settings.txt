@@ -1,0 +1,7 @@
+this.LocationX:78
+this.LocationY:78
+Window.Height:100
+Window.Width:230
+checkBox1.Checked:False
+checkBox2.Checked:False
+textBox1.Text:

@@ -1,0 +1,9 @@
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\bin\Debug\Task_1_b.exe.config
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\bin\Debug\Task_1_b.exe
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\bin\Debug\Task_1_b.pdb
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\obj\Debug\Task_1_b.csprojAssemblyReference.cache
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\obj\Debug\Task_1_b.Form1.resources
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\obj\Debug\Task_1_b.Properties.Resources.resources
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\obj\Debug\Task_1_b.csproj.GenerateResource.cache
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\obj\Debug\Task_1_b.exe
+C:\Users\4\Desktop\C_sharp_DUT_2.1-master\C_sharp_2_course_2_semester\Working_with_registry\Task_1_b\obj\Debug\Task_1_b.pdb
